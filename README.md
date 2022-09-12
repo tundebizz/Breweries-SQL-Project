@@ -4,8 +4,8 @@
 directed to do the following analyses to aid better decision making in order to maximize
 profit and reduce loss to the lowest minimum.</P>
 
-<p><b>Session A<br>
-PROFIT ANALYSIS</b></p>
+<b>Session A<br>
+PROFIT ANALYSIS</b>
 1. Within the space of the last three years, what was the profit worth of the breweries,
 inclusive of the anglophone and the francophone territories?
 2. Compare the total profit between these two territories in order for the territory manager,
@@ -17,8 +17,8 @@ Mr. Stone made a strategic decision that will aid profit maximization in 2020.
 7. Compare the profit in percentage for each of the month in 2019
 8. Which particular brand generated the highest profit in Senegal?
 
-<p><b>Session B<br>
-BRAND ANALYSIS</b></p>
+<b>Session B<br>
+BRAND ANALYSIS</b>
 1. Within the last two years, the brand manager wants to know the top three brands
 consumed in the francophone countries
 2. Find out the top two choice of consumer brands in Ghana
@@ -31,11 +31,11 @@ country in West Africa.
 8. Level of consumption of Budweiser in the regions in Nigeria
 9. Level of consumption of Budweiser in the regions in Nigeria in 2019 (Decision on Promo)
 
-<p><b>Session C
-COUNTRIES ANALYSIS</b></p>
+<b>Session C
+COUNTRIES ANALYSIS</b>
 1. Country with the highest consumption of beer.
 2. Highest sales personnel of Budweiser in Senegal
 3. Country with the highest profit of the fourth quarter in 2019
 
-DATASET
+<b>DATASET</b>
 https://drive.google.com/file/d/11riatqD-uRa98TsCk2xqOBnlr3rzxsS_/view?usp=sharing
